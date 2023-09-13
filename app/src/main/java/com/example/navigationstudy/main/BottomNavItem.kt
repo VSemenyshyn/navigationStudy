@@ -1,4 +1,4 @@
-package com.example.navigationstudy
+package com.example.navigationstudy.main
 
 import androidx.compose.ui.graphics.vector.ImageVector
 
